@@ -17,29 +17,49 @@ This workshop solicits the latest and significant contribu-tions on developing a
 ### Relevant topic areas
 The workshop invites submissions on all topics of neural al-gorithms  and  theories  for  recommender  systems,  including
 but not limited to:
+
 -Deep neural model for recommender systems
+
 -Shallow neural model for recommender systems
+
 -Neural theories particularly for recommender systems
+
 -Theoretical analysis of neural models for recommender systems
+
 -Theoretical analysis for recommender systems
+
 -Data  characteristics  and  complexity  analysis  in  recommender systems
+
 -Non-IID (non-independent and identical distribution) theories and practices for recommender systems
+
 -AutoML for recommender systems-Privacy issues in recommender systems
+
 -Recommendations on small data sets
+
 -Complex behaviour modeling and analysis for recommendersystems
+
 -Psychology-driven user modeling for recommender systems
+
 -Brain-inspired neural models for recommender systems
+
 -Explainable recommender systems-Adversarial recommender systems
+
 -Multimodal recommender systems-Rich-context recommender systems
+
 -Heterogeneous relations modeling in recommender systems
+
 -Visualization in recommender systems-New evaluation metrics and methods for recommender systems
 
 
 ## **Organizing Committee**
 Dr Shoujin Wang, Macquarie University
+
 Dr Liang Hu, Shanghai Jiaotong University
+
 Prof. Yan Wang, Macquarie University
+
 Prof. Longbing Cao, University of Technology Sydney
+
 Prof. Ivor Tsang, University of Technology Sydney
 
 ## Enquiry: 
@@ -82,6 +102,3 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/786121244/NeuRec-Workshop/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
