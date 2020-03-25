@@ -18,36 +18,21 @@ This workshop solicits the latest and significant contribu-tions on developing a
 The workshop invites submissions on all topics of neural al-gorithms  and  theories  for  recommender  systems,  including
 but not limited to:
 
--Deep neural model for recommender systems
-
--Shallow neural model for recommender systems
-
--Neural theories particularly for recommender systems
-
--Theoretical analysis of neural models for recommender systems
-
--Theoretical analysis for recommender systems
-
--Data  characteristics  and  complexity  analysis  in  recommender systems
-
--Non-IID (non-independent and identical distribution) theories and practices for recommender systems
-
--AutoML for recommender systems-Privacy issues in recommender systems
-
--Recommendations on small data sets
-
--Complex behaviour modeling and analysis for recommendersystems
-
--Psychology-driven user modeling for recommender systems
-
--Brain-inspired neural models for recommender systems
-
--Explainable recommender systems-Adversarial recommender systems
-
--Multimodal recommender systems-Rich-context recommender systems
-
--Heterogeneous relations modeling in recommender systems
-
+-Deep neural model for recommender systems  
+-Shallow neural model for recommender systems  
+-Neural theories particularly for recommender systems  
+-Theoretical analysis of neural models for recommender systems  
+-Theoretical analysis for recommender systems  
+-Data  characteristics  and  complexity  analysis  in  recommender systems  
+-Non-IID (non-independent and identical distribution) theories and practices for recommender systems  
+-AutoML for recommender systems-Privacy issues in recommender systems  
+-Recommendations on small data sets  
+-Complex behaviour modeling and analysis for recommendersystems  
+-Psychology-driven user modeling for recommender systems  
+-Brain-inspired neural models for recommender systems  
+-Explainable recommender systems-Adversarial recommender systems  
+-Multimodal recommender systems-Rich-context recommender systems  
+-Heterogeneous relations modeling in recommender systems  
 -Visualization in recommender systems-New evaluation metrics and methods for recommender systems
 
 ### Important dates
@@ -57,18 +42,14 @@ September 24, 2020: Camera-ready deadline and copyright form
 November 17, 2020: Workshops date
 
 ## **Organizing Committee**
-Dr Shoujin Wang, Macquarie University
-
-Dr Liang Hu, Shanghai Jiaotong University
-
-Prof. Yan Wang, Macquarie University
-
-Prof. Longbing Cao, University of Technology Sydney
-
-Prof. Ivor Tsang, University of Technology Sydney
+Dr [Shoujin Wang](https://sites.google.com/view/shoujin-wang/home), Macquarie University  
+Dr [Liang Hu](https://sites.google.com/view/lianghu/home), Shanghai Jiaotong University  
+Prof. [Yan Wang](http://web.science.mq.edu.au/~yanwang/), Macquarie University  
+Prof. [Longbing Cao](http://cao.datasciences.org/), University of Technology Sydney  
+Prof. [Ivor Tsang](https://www.uts.edu.au/staff/ivor.tsang), University of Technology Sydney
 
 ## Enquiry: 
-Please contact Dr. Shoujin Wang via shoujin.wang@mq.edu.au
+Please contact Dr. Shoujin Wang via shoujin.wang@mq.edu.au.
 
 
 
