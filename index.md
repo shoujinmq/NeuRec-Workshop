@@ -8,7 +8,7 @@ The Workshop on Advanced Neural Algorithms and Theories for Recommender Systems 
 
 ## **Call for Papers**
 ### A brief introduction
-Nowadays, the renaissance of artificial intelligence (AI) hasattracted huge attention from every corner of the world.  Onthe one hand,  neural algorithms and theories (include shallow and deep ones) have nearly dominated AI developmentin almost all areas, e.g., natural language processing (NLP),computer vision (CV) and planning and have shown greatpromise. On the other hand, recommender systems (RS), asone of the most popular and important applications of AI, has been widely planted into our daily life and has made a hugedifference.  Naturally, the combination of neural algorithmsand theories and recommender systems has been flourishing for years and has shown great  potential. In practice, neural models and algorithms have nearly dominated the recommender system research in recent years.  Many state-of-the-art recommender systems are built on neural algorithms, especially deep neural algorithms. However, most researchers often only focus on the application of deep neural models to solve the problems in recommender systems, they either ignore the more efficient shallow and light weighted neural models or overlook the fundamental theories behind these neural models, and the intrinsic connections between these theories and the recommender system issues.  
+Nowadays, the renaissance of artificial intelligence (AI) has attracted huge attention from every corner of the world.  On the one hand,  neural algorithms and theories (include shallow and deep ones) have nearly dominated AI development in almost all areas, e.g., natural language processing (NLP),computer vision (CV) and planning and have shown great promise. On the other hand, recommender systems (RS), as one of the most popular and important applications of AI, has been widely planted into our daily lives and has made a huge difference. Naturally, the combination of neural algorithms and theories and recommender systems has been flourishing for years and has shown great potential. In practice, neural models and algorithms have nearly dominated the recommender system research in recent years.  Many state-of-the-art recommender systems are built on neural algorithms, especially deep neural algorithms. However, most researchers often only focus on the application of deep neural models to solve the problems in recommender systems, they either ignore the more efficient shallow and light weighted neural models or overlook the fundamental theories behind these neural models, and the intrinsic connections between these theories and the recommender system issues.  
 This workshop aims to systematically discuss the recent advancements of both shallow and deep neural algorithms for recommender systems from both the application and theoretical perspectives. Particularly, the recent progress achieved in both shallow and deep neural recommender system algorithms together with the related theories will be discussed. Furthermore, both the recent progress achieved in the academia and the industry will be covered.  
 This workshop solicits the latest and significant contributions on developing and applying neural algorithms and theories for building intelligent recommender systems. Specifically, the workshop solicits papers (max 8 pages plus 2 extra pages) for peer review. The format of the submissions must be in line with the [ICDM submissions](http://icdm2020.bigke.org/), namely double-column in [IEEE conference format](https://www.ieee.org/conferences/publishing/templates.html). Furthermore, as in previous years, papers that are not accepted by the main conference will be automatically sent to a workshop selected by the authors when the papers were submitted to the main conference. By the unique ICDM tradition, all accepted workshop papers will be published in the dedicated ICDMW proceedings published by the IEEE Computer Society Press.
 
@@ -22,7 +22,7 @@ but not limited to:
 -Theoretical analysis for recommender systems  
 -Data characteristics and complexity analysis in recommender systems  
 -Non-IID (non-independent and identical distribution) theories and practices for recommender systems  
--AutoML for recommender systems  
+-Auto ML for recommender systems  
 -Privacy issues in recommender systems  
 -Recommendations on small data sets  
 -Complex behaviour modeling and analysis for recommender systems  
@@ -32,7 +32,7 @@ but not limited to:
 -Adversarial recommender systems  
 -Multimodal recommender systems  
 -Rich-context recommender systems  
--Heterogeneous relations modeling in recommender systems  
+-Heterogeneous relation modeling in recommender systems  
 -Visualization in recommender systems  
 -New evaluation metrics and methods for recommender systems
 
