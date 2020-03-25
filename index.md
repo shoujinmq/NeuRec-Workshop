@@ -28,8 +28,10 @@ but not limited to:
 -Complex behaviour modeling and analysis for recommendersystems  
 -Psychology-driven user modeling for recommender systems  
 -Brain-inspired neural models for recommender systems  
--Explainable recommender systems-Adversarial recommender systems  
--Multimodal recommender systems-Rich-context recommender systems  
+-Explainable recommender systems  
+-Adversarial recommender systems  
+-Multimodal recommender systems  
+-Rich-context recommender systems  
 -Heterogeneous relations modeling in recommender systems  
 -Visualization in recommender systems  
 -New evaluation metrics and methods for recommender systems
