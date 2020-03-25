@@ -1,5 +1,5 @@
 ## **News:**
-The website of NeuRec Wrokshop 2020 has been set up. 
+The website of NeuRec Workshop 2020 has been set up. 
 
 
 ## **About the NeuRec Workshop 2020** 
