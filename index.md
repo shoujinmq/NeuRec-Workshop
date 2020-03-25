@@ -2,7 +2,7 @@
 The website of NeuRec Wrokshop 2020 has been set up. 
 
 
-## **About the NeuRec Wrokshop 2020** 
+## **About the NeuRec Workshop 2020** 
 The Workshop on Advanced Neural Algorithms and Theories for Recommender Systems (NeuRec) will be co-located with ICDM 2020 to held on November 17-20, 2020, Sorrento, Italy. This workshops provide a more focused, in-depth venue for presentations, discussions and interaction on the area of data mining, machine learning, artificial intelligence and recommender systems. The workshop will solicit papers (max 8 pages plus 2 extra pages) for peer review. Furthermore, as in previous years, papers that are not accepted by the main conference will be automatically sent to a workshop selected by the authors when the papers were submitted to the main conference. By the unique ICDM tradition, all accepted workshop papers will be published in the dedicated ICDMW proceedings published by the IEEE Computer Society Press.
 
 
@@ -72,14 +72,13 @@ Please contact Dr. Shoujin Wang via shoujin.wang@mq.edu.au
 
 You can use the [editor on GitHub](https://github.com/786121244/NeuRec-Workshop/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+
 
 # Header 1
 ## Header 2
@@ -95,8 +94,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
