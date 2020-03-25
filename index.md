@@ -3,7 +3,7 @@ The website of NeuRec Wrokshop 2020 has been set up.
 
 
 ## **About the NeuRec Workshop 2020** 
-The Workshop on Advanced Neural Algorithms and Theories for Recommender Systems (NeuRec) will be co-located with ICDM 2020 to held on November 17-20, 2020, Sorrento, Italy. This workshops provide a more focused, in-depth venue for presentations, discussions and interaction on the area of data mining, machine learning, artificial intelligence and recommender systems. The workshop will solicit papers (max 8 pages plus 2 extra pages) for peer review. Furthermore, as in previous years, papers that are not accepted by the main conference will be automatically sent to a workshop selected by the authors when the papers were submitted to the main conference. By the unique ICDM tradition, all accepted workshop papers will be published in the dedicated ICDMW proceedings published by the IEEE Computer Society Press.
+The Workshop on Advanced Neural Algorithms and Theories for Recommender Systems (NeuRec) will be co-located with ICDM 2020 to held on November 17-20, 2020, Sorrento, Italy. This workshop provides a more focused, in-depth venue for presentations, discussions and interactions on the area of data mining, machine learning, artificial intelligence and recommender systems. The workshop will solicit papers (max 8 pages plus 2 extra pages) for peer review. Furthermore, as in previous years, papers that are not accepted by the main conference will be automatically sent to a workshop selected by the authors when the papers were submitted to the main conference. By the unique ICDM tradition, all accepted workshop papers will be published in the dedicated ICDMW proceedings published by the IEEE Computer Society Press.
 
 
 ## **Call for Papers**
