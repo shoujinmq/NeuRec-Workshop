@@ -13,7 +13,7 @@ This workshop aims to systematically discuss the recent advancements of both sha
 This workshop solicits the latest and significant contributions on developing and applying neural algorithms and theories for building intelligent recommender systems. Specifically, the workshop solicits papers (max 8 pages plus 2 extra pages) for peer review. The format of the submissions must be in line with the [ICDM submissions](http://icdm2020.bigke.org/), namely double-column in [IEEE conference format](https://www.ieee.org/conferences/publishing/templates.html). Furthermore, as in previous years, papers that are not accepted by the main conference will be automatically sent to a workshop selected by the authors when the papers were submitted to the main conference. By the unique ICDM tradition, all accepted workshop papers will be published in the dedicated ICDMW proceedings published by the IEEE Computer Society Press.
 
 ### Relevant topic areas
-The workshop invites submissions on all topics of neural al-gorithms and theories for recommender systems, including
+The workshop invites submissions on all topics of neural algorithms and theories for recommender systems, including
 but not limited to:  
 -Deep neural model for recommender systems  
 -Shallow neural model for recommender systems  
@@ -25,7 +25,7 @@ but not limited to:
 -AutoML for recommender systems  
 -Privacy issues in recommender systems  
 -Recommendations on small data sets  
--Complex behaviour modeling and analysis for recommendersystems  
+-Complex behaviour modeling and analysis for recommender systems  
 -Psychology-driven user modeling for recommender systems  
 -Brain-inspired neural models for recommender systems  
 -Explainable recommender systems  
