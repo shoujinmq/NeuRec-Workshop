@@ -43,11 +43,23 @@ September 24, 2020: Camera-ready deadline and copyright form
 November 17, 2020: Workshops date
 
 ## **Organizing Committee**
+### Co-Chairs
 Dr. [Shoujin Wang](https://sites.google.com/view/shoujin-wang/home), Macquarie University  
 Dr. [Liang Hu](https://sites.google.com/view/lianghu/home), Shanghai Jiaotong University  
 Prof. [Yan Wang](http://web.science.mq.edu.au/~yanwang/), Macquarie University  
 Prof. [Longbing Cao](http://cao.datasciences.org/), University of Technology Sydney  
 Prof. [Ivor Tsang](https://www.uts.edu.au/staff/ivor.tsang), University of Technology Sydney
+
+### Publicity Chairs
+Rossi Kamal, DataScience4Human, Bangladesh 
+Prof. [Wenpeng Lu](https://www.x-mol.com/university/faculty/160485), Qilu University of Technology
+
+### Program Chairs
+Prof. [Lin Xiao](https://cise.hunnu.edu.cn/info/1078/2006.htm), Hunan Normal University
+Prof. [Lianyong Qi](http://web.qfnu.edu.cn/qly), Qufu Normal University
+
+### Program Committee
+TBA
 
 ## Enquiry: 
 Please contact Dr. Shoujin Wang via shoujin.wang@mq.edu.au.
