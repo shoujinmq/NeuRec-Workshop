@@ -51,11 +51,11 @@ Prof. [Longbing Cao](http://cao.datasciences.org/), University of Technology Syd
 Prof. [Ivor Tsang](https://www.uts.edu.au/staff/ivor.tsang), University of Technology Sydney
 
 ### Publicity Chairs
-Rossi Kamal, DataScience4Human, Bangladesh 
+Rossi Kamal, DataScience4Human, Bangladesh   
 Prof. [Wenpeng Lu](https://www.x-mol.com/university/faculty/160485), Qilu University of Technology
 
 ### Program Chairs
-Prof. [Lin Xiao](https://cise.hunnu.edu.cn/info/1078/2006.htm), Hunan Normal University
+Prof. [Lin Xiao](https://cise.hunnu.edu.cn/info/1078/2006.htm), Hunan Normal University  
 Prof. [Lianyong Qi](http://web.qfnu.edu.cn/qly), Qufu Normal University
 
 ### Program Committee
