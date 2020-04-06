@@ -56,7 +56,7 @@ Prof. [Wenpeng Lu](https://www.x-mol.com/university/faculty/160485), Qilu Univer
 
 ### Program Chairs
 Prof. [Lin Xiao](https://cise.hunnu.edu.cn/info/1078/2006.htm), Hunan Normal University  
-Prof. [Lianyong Qi](http://web.qfnu.edu.cn/qly), Qufu Normal University
+Prof. [Lianyong Qi](http://web.qfnu.edu.cn/qly), Qufu Normal University  
 Dr. [Ling Luo](https://findanexpert.unimelb.edu.au/profile/849504-ling-luo), University of Melbourne
 
 ### Program Committee
