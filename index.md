@@ -42,7 +42,7 @@ September 17, 2020: Notification of workshop papers acceptance to authors
 September 24, 2020: Camera-ready deadline and copyright form  
 November 17, 2020: Workshops date
 
-### The paper submission site:
+### The paper submission site
 https://wi-lab.com/cyberchair/2020/icdm20/scripts/ws_submit.php?subarea=S
 
 ## **Organizing Committee**
