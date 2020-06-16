@@ -65,6 +65,12 @@ Dr. [Ling Luo](https://findanexpert.unimelb.edu.au/profile/849504-ling-luo), Uni
 ### Program Committee
 TBA
 
+## Journal Opportunties: 
+Extended version of accepted wroskshop papers will be recomemnded to the following journals for quick publication as regular papers or special issue papers: 
+International Journal of Data Science and Analytics ([JDSA](https://www.springer.com/journal/41060)),
+[SN Computer Science](https://www.springer.com/journal/42979)
+
+
 ## Enquiry: 
 Please contact Dr. Shoujin Wang via shoujin.wang@mq.edu.au.
 
