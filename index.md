@@ -67,7 +67,7 @@ TBA
 
 ## Journal Opportunties: 
 Extended version of accepted wroskshop papers will be recomemnded to the following journals for quick publication as regular papers or special issue papers: 
-International Journal of Data Science and Analytics ([JDSA](https://www.springer.com/journal/41060)),
+International Journal of Data Science and Analytics ([JDSA](https://www.springer.com/journal/41060)), 
 [SN Computer Science](https://www.springer.com/journal/42979)
 
 
