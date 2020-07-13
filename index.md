@@ -67,8 +67,8 @@ TBA
 
 ## Journal Opportunties: 
 Extended version of accepted wroskshop papers will be recomemnded to the following journals for quick publication as regular papers or special issue papers: 
-International Journal of Data Science and Analytics ([JDSA](https://www.springer.com/journal/41060)),   
-[SN Computer Science](https://www.springer.com/journal/42979)
+International Journal of Data Science and Analytics Special issue on Recommender Systems ([JDSA](https://www.springer.com/journal/41060/updates/17193470)),   
+[SN Computer Science Topical Issue: Advanced Theories and Algorithms for Next-Generation Recommender Systems](https://www.springer.com/journal/42979/updates/18167122)
 
 
 ## Enquiry: 
