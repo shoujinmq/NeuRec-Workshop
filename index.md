@@ -1,5 +1,6 @@
 ## **News:**
-The website of NeuRec Workshop 2020 has been set up. 
+*NeuRec is hourable to be sponsored by [Frontiers in Big Data](https://www.frontiersin.org/journals/big-data).
+*The website of NeuRec Workshop 2020 has been set up. 
 
 
 ## **About the NeuRec Workshop 2020** 
