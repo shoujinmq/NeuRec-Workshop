@@ -1,5 +1,5 @@
 ## **News:**
-- The organization committee is pleased to set up the best paper award for the workshop, the winner will be awarded 300 USD plus a certificate.
+- The organization committee is pleased to set up the **best paper award** for the workshop, the winner will be awarded **300 USD plus a certificate**.
 - NeuRec workshop is honourable to be sponsored by [Frontiers in Big Data](https://www.frontiersin.org/journals/big-data), a prestigious journal in data science.
 - The website of NeuRec Workshop 2020 has been set up. 
 
