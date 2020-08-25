@@ -49,7 +49,7 @@ https://wi-lab.com/cyberchair/2020/icdm20/scripts/ws_submit.php?subarea=S
 
 ## **Organizing Committee**
 ### Co-Chairs
-Dr. [Shoujin Wang](https://sites.google.com/view/shoujin-wang/home), Macquarie University  
+Dr. [Shoujin Wang](https://sites.google.com/view/shoujinwanghome), Macquarie University  
 Dr. [Liang Hu](https://sites.google.com/view/lianghu/home), Shanghai Jiaotong University  
 Prof. [Yan Wang](http://web.science.mq.edu.au/~yanwang/), Macquarie University  
 Prof. [Longbing Cao](http://cao.datasciences.org/), University of Technology Sydney  
