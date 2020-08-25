@@ -61,7 +61,7 @@ Prof. [Lianyong Qi](http://web.qfnu.edu.cn/qly), Qufu Normal University
 Dr. [Ling Luo](https://findanexpert.unimelb.edu.au/profile/849504-ling-luo), University of Melbourne
 
 ### Publicity Chairs  
-Prof. [Wenpeng Lu](https://www.x-mol.com/university/faculty/160485), Qilu University of Technology
+Prof. [Wenpeng Lu](https://www.x-mol.com/university/faculty/160485), Qilu University of Technology  
 Rossi Kamal, DataScience4Human, Bangladesh 
 
 ### Program Committee
