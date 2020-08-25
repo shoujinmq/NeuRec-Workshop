@@ -39,9 +39,9 @@ but not limited to:
 -New evaluation metrics and methods for recommender systems
 
 ### Important dates
-August 24, 2020: Workshop papers submission  
-September 17, 2020: Notification of workshop papers acceptance to authors  
-September 24, 2020: Camera-ready deadline and copyright form  
+~~August 24, 2020~~(extended to August 30): Workshop papers submission  
+September 24, 2020: Notification of workshop papers acceptance to authors  
+September 30, 2020: Camera-ready deadline and copyright form  
 November 17, 2020: Workshops date
 
 ### The paper submission site
@@ -55,21 +55,23 @@ Prof. [Yan Wang](http://web.science.mq.edu.au/~yanwang/), Macquarie University
 Prof. [Longbing Cao](http://cao.datasciences.org/), University of Technology Sydney  
 Prof. [Ivor Tsang](https://www.uts.edu.au/staff/ivor.tsang), University of Technology Sydney
 
-### Publicity Chairs
-Rossi Kamal, DataScience4Human, Bangladesh   
-Prof. [Wenpeng Lu](https://www.x-mol.com/university/faculty/160485), Qilu University of Technology
-
 ### Program Chairs
 Prof. [Lin Xiao](https://cise.hunnu.edu.cn/info/1078/2006.htm), Hunan Normal University  
 Prof. [Lianyong Qi](http://web.qfnu.edu.cn/qly), Qufu Normal University  
 Dr. [Ling Luo](https://findanexpert.unimelb.edu.au/profile/849504-ling-luo), University of Melbourne
+
+### Publicity Chairs
+Rossi Kamal, DataScience4Human, Bangladesh   
+Prof. [Wenpeng Lu](https://www.x-mol.com/university/faculty/160485), Qilu University of Technology
 
 ### Program Committee
 TBA
 
 ## Journal Opportunties: 
 Extended version of accepted wroskshop papers will be recomemnded to the following journals for quick publication as regular papers or special issue papers: 
-
+* [Frontiers in Big Data](https://www.frontiersin.org/journals/big-data)
+* [SN Computer Science](https://www.springer.com/journal/42979/updates/18167122)
+* [International Journal of Data Science and Analytics](https://www.springer.com/journal/41060/updates/17193470)
 
 ## Enquiry: 
 Please contact Dr. Shoujin Wang via shoujin.wang@mq.edu.au.
