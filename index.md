@@ -69,7 +69,7 @@ TBA
 
 ## Journal Opportunties: 
 Extended version of accepted wroskshop papers will be recomemnded to the following journals for quick publication as regular papers or special issue papers: 
-* [Frontiers in Big Data](https://www.frontiersin.org/journals/big-data)
+* [Frontiers in Big Data](https://www.frontiersin.org/research-topics/15969/deep-learning-for-recommender-systems)
 * [SN Computer Science](https://www.springer.com/journal/42979/updates/18167122)
 * [International Journal of Data Science and Analytics (JDSA)](https://www.springer.com/journal/41060/updates/17193470)
 
